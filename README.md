@@ -4,7 +4,7 @@
 
 这个页面控制器是继承UIview的，它的功能像UIPageViewController但是我觉得是更好。使用方式和TableView差不多并且它会储存显示的ViewController来减少页面重复的HTTP请求。它的效果有点像Android的UI。
 ## Effect
-![image](https://github.com/WuChuming/UIDesignAssistant/blob/master/github.gif)   
+![image](https://github.com/WuChuming/CMPageViewController/blob/master/Untitled.gif)   
 
 ## Install steps
 **1.** Drop files in a floder called CMpageViewController into your project。
